@@ -1,0 +1,27 @@
+{
+  "name": "qroute",
+  "version": "1.0.0",
+  "description": "Lightweight CLI utility to host fast TCP forwarding servers",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "qroute": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuturisticCake/qroute.git"
+  },
+  "keywords": [
+    "tcp",
+    "forwarding",
+    "forward",
+    "route",
+    "qroute"
+  ],
+  "author": "Ethan Davis",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/FuturisticCake/qroute/issues"
+  },
+  "homepage": "https://github.com/FuturisticCake/qroute#readme"
+}
