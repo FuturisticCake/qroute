@@ -11,7 +11,7 @@ The compiled versions of qroute are created for execution on their respective na
 
 ## Compiling qroute
 
-Use the compilation bash script:
+Use the compilation bash script (you'll need to have [pkg](https://www.npmjs.com/package/pkg) installed to compile!)
 
 ```shell
 ./compiled/compile.sh
